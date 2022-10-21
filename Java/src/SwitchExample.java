@@ -22,7 +22,7 @@ public class SwitchExample {
         	break;
         case 2:
         	System.out.println("two");
-        	break;
+        	break;// break the current iteration
         case 3:
         	System.out.println("Three");
         	break;
